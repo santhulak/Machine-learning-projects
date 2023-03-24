@@ -28,3 +28,5 @@ This project groups the Customers who visits the MAll into clusters.
 
 ![image](https://user-images.githubusercontent.com/66127023/227537244-569a47a8-4f7e-480c-995f-27023bb10ae3.png)
 
+## Result
+Found the optimal number of clusters as 5 using Elbow Plot.
